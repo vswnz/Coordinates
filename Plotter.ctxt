@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Plotter
+comment0.text=\r\n\ Plotter.\ \ A\ small\ program\ that\ just\ makes\ a\ coordinate\ and\ then\ prints\ it\ out.\r\n\r\n\ @author\ Bill\ Viggers\r\n\ @version\ 15-Nov-22\r\n
+comment1.params=
+comment1.target=Plotter()
+numComments=2
